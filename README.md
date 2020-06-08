@@ -4,7 +4,6 @@
 
 or you could use [justa.ml](https://justa.ml)
 
-### Running live: [https://justa.ml](https://justa.ml/)  🚀
 
 ## Run from docker hub
 
@@ -18,7 +17,6 @@ Should be running in http://localhost:61452
 * Clone
 * `cd src\JustSending`
 * `dotnet run` or `dotnet watch run`
-* Should be running in http://localhost:61452
 
 ## A huge thanks to the following projects
 
